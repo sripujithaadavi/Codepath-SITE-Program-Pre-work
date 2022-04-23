@@ -37,10 +37,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
+![](https://i.imgur.com/EwExuyz.gif)
 
-![won](https://user-images.githubusercontent.com/24896236/164786471-f22fe784-2ab1-483a-94a3-7d7e471daea8.gif)
-
-![lost](https://user-images.githubusercontent.com/24896236/164788483-35d03611-43bd-4cad-8ac4-77fa353f63cf.gif)
+![](https://i.imgur.com/OcOLKOJ.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -62,7 +61,7 @@ The following **additional** features are implemented:
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://uflorida-my.sharepoint.com/:v:/g/personal/adavi_sripujitha_ufl_edu/EfTM6CcF7b1GkrBTnRLty8QBuilmwNPiKxhOL5BTNlp3Gg?e=C9wTky)
 
 ## License
 
